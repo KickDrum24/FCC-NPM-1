@@ -1,6 +1,6 @@
 {
 	"author": "Ian Fullmer",
-	"description": "A web app for learning software developmen",
+	"description": "A web app for learning software development",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.17.1"
