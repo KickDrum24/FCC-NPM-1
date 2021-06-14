@@ -2,6 +2,7 @@
 	"author": "Ian Fullmer",
 	"description": "A web app for learning software development",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": [ "freecodecamp", "noob"],
 	"dependencies": {
 		"express": "^4.17.1"
 	},
