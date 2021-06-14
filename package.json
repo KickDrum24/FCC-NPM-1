@@ -1,5 +1,6 @@
 {
 	"author": "Ian Fullmer",
+	"license": "MIT",
 	"description": "A web app for learning software development",
 	"name": "fcc-learn-npm-package-json",
 	"keywords": [ "freecodecamp", "noob"],
